@@ -94,4 +94,15 @@ Questions or suggestions?
 
 ---
 
+## ⭐ ¡No olvides calificar! / Don't forget to rate!
+
+**ES:** Si este material te fue útil, apóyame dejando una calificación positiva ⭐⭐⭐⭐⭐ en la página del proyecto.  
+**EN:** If you found this material useful, please support it by leaving a ⭐⭐⭐⭐⭐ rating on the project page.  
+Tu retroalimentación / Your feedback helps improve and keep sharing resources!
+
+[![Califica este proyecto / Rate this project](https://img.shields.io/badge/★★★★★-Califica%20%7C%20Rate-blueviolet?style=for-the-badge)](https://la.mathworks.com/matlabcentral/fileexchange/181775-circulo-de-mohr)
+
+---
+
+
 © 2024 Adrián José Quesada Martínez
